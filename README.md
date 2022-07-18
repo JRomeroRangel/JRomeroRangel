@@ -4,7 +4,7 @@
 
 B.S. Management Information Systems and Business Analytics
 
-Skills: JAVA / PYTHON / SQL / R /SAS 
+Skills: JAVA ☕/ PYTHON 🐍 / SQL 🔑 / R 💻 / SAS 📈
 
 - 🔭 I’m currently working on this page. 
 
