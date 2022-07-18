@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Jesus Rangel
+#### I am Full Stack Development Student
+![I am Full Stack Development Student](https://res.cloudinary.com/dmsxwwfb5/image/upload/v1595866967/full-stack-devlopment-min.png)
 
-<!--
-**JRomeroRangel/JRomeroRangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.S. Management Information Systems and Business Analytics
 
-Here are some ideas to get you started:
+Skills: JAVA / PYTHON / SQL / R /SAS 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
