@@ -11,7 +11,7 @@ Skills: JAVA ☕/ PYTHON 🐍 / SQL 🔑 / R 💻 / SAS 📈
 - 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JRomeroRangel)  
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JRomeroRangel)   -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JRomeroRangel&show_icons=true)  
 
