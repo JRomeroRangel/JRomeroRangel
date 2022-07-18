@@ -1,7 +1,7 @@
 
 ![I am Full Stack Development Student](https://th.bing.com/th/id/R.72edaa1bb6d52a5bd4d396aed8d0bee1?rik=EQYE5O7QzdUEig&riu=http%3a%2f%2fwww.thedigitalbridges.com%2fwp-content%2fuploads%2f2017%2f09%2ffull-stack-engineer-how-to-become.png&ehk=SWzgP1zU%2fyT13UxU85SE7L7dqyztaoMbqC230e08sfQ%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1)
-### Hi there 👋, my name is Jesus Rangel
-#### I am Full Stack Development Student And Aspriring Software Engineer
+### Hi there 👋, my name is Armando Rangel
+#### I am Full Stack Development Student and Aspriring Software Engineer
 
 
 B.S. Management Information Systems and Business Analytics
